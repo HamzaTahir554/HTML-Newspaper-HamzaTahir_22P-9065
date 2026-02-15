@@ -1,4 +1,4 @@
-HTML-Newspaper-HamzaTahir_22P-9065/
+index/
 │
 ├── NewsPaper.html
 ├── README.md
